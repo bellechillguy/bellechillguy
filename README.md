@@ -1,5 +1,7 @@
 # ₊ ⊹🪻 ✧˚   hi... belle is here!
-<br>A girl who has a great interest in Cyber ​​Security, Networking, DevOps, and Game development.
+A girl who has a great interest in Cyber ​​Security, Networking, DevOps, and Game development.
+
+![image](https://github.com/user-attachments/assets/b13ae45d-4590-42bf-a01e-3a27658b8e87)
 
 
 # 𐔌   .  ⋮ socials  .ᐟ 📲 ֹ   ₊ ꒱
