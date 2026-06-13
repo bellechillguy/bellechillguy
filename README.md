@@ -30,7 +30,7 @@
 
 # 𐔌 tech stack .ᐟ 👾
 
-## 🪻 Languages
+## 🪻 code languages
 
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
