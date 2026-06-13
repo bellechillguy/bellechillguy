@@ -91,7 +91,6 @@
 
 ![Docker](https://img.shields.io/badge/Docker-0db7ed.svg?style=for-the-badge&logo=docker)
 ![Nginx](https://img.shields.io/badge/Nginx-009639.svg?style=for-the-badge&logo=nginx)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2671E5.svg?style=for-the-badge&logo=githubactions)
 ![Git](https://img.shields.io/badge/Git-F05033.svg?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-121011.svg?style=for-the-badge&logo=github)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020.svg?style=for-the-badge&logo=cloudflare)
@@ -101,7 +100,17 @@
 
 ## 🔐 networking && cyber security
 
-![Cisco](https://img.shields.io/badge/Cisco-049fd9.svg?style=for-the-badge&logo=cisco)
+<div style="display: flex; align-items: center; gap: 12px;">
+<img src="https://cdn.freelogovectors.net/wp-content/uploads/2021/12/kali-logo-freelogovectors.net_.png" alt="Kali Linux" width="48" height="48">
+<img src="https://img.icons8.com/?size=100&id=17842&format=png&color=000000" alt="Linux" width="48" height="48">
+<img src="https://img.icons8.com/?size=100&id=9b5wowKIlo9d&format=png&color=000000" alt="Nmap" width="48" height="48">
+<img src="https://www.pngkit.com/png/full/365-3657626_wireshark-icon.png" alt="Wireshark" width="48" height="48">
+<img src="https://img.shields.io/badge/Cisco-049fd9.svg?style=for-the-badge&logo=cisco" alt="Cisco" height="32">
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxf9DCdGWuJIMtAOx7PW2mVK2rHYKY6OCH_iBrxOaBVqp0HQcW33Y66q4FKrnYZ8neLkWynkmlzXRyDwsWEy_cEofp8tfqaXMoStNGVHQSNuhNEjDitaQmx8dtL3zPzpFkKE8nXJhgzkhykPjGRd38oOq3QsIPL2ifbuEL_FZZ83nmXWUmgyD4RG_v-w4/s16000/Ghidra.webp" alt="Ghidra" height="27">
+<img src="https://miro.medium.com/v2/resize:fit:864/1*1xgHIc1acL1MzvhzR0PSkA.png" alt="Autopsy" height="27">
+<img src="https://anchor-u.com/wp-content/uploads/burpsuite-1.png" alt="Burp Suite" height="27">
+<img src="https://wiki-bank.com/wp-content/uploads/2024/04/SpiderFoot.jpg" alt="SpiderFoot" height="27">
+</div>
 
 ---
 
@@ -116,6 +125,8 @@
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=figma)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC.svg?style=for-the-badge&logo=canva)
+<img src="https://www.pngitem.com/pimgs/m/593-5932443_procreate-logo-hd-png-download.png" alt="Procreare" width="96">
+
 
 ---
 
@@ -139,10 +150,16 @@
 
 </div>
 
+## 👾 my contribution graph
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bellechillguy/bellechillguy/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bellechillguy/bellechillguy/output/pacman-contribution-graph.svg">
+  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/bellechillguy/bellechillguy/output/pacman-contribution-graph.svg">
+</picture>
+
+
 ---
 
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=bellechillguy&icon=0&color=0"/>
-
-</div>
+<p align="center">
+  <i>“Living like Larry!”</i>
+</p>
