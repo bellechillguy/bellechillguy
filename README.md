@@ -3,7 +3,7 @@
 # ₊ ⊹🪻 ✧˚ hi, 𝓑elle is here!
 
 <p>
-  Information Technology student who loves to explore Cyber Security, Networking, DevOps, and Game Development.
+  System & Information Technology student who loves to explore Cyber Security, Networking, DevOps, and Game Development.
 </p>
 
 <img src="https://github.com/user-attachments/assets/412de1ef-7496-49df-8f06-ff0586f234c1" width="1024"/>
@@ -44,7 +44,7 @@
 
 ---
 
-## 🌐 Web Development
+## 🌐 webdev
 
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -60,7 +60,7 @@
 
 ---
 
-## 🗄 Database
+## 🗄 db
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545.svg?style=for-the-badge&logo=mariadb)
@@ -69,7 +69,7 @@
 
 ---
 
-## 📊 Data & Analytics
+## 📊 data && analytics
 
 ![NumPy](https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=numpy)
 ![Pandas](https://img.shields.io/badge/Pandas-150458.svg?style=for-the-badge&logo=pandas)
@@ -78,7 +78,7 @@
 
 ---
 
-## 🤖 IoT & Computer Vision
+## 🤖 iot && computer vision
 
 ![OpenCV](https://img.shields.io/badge/OpenCV-white.svg?style=for-the-badge&logo=opencv&logoColor=black)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D.svg?style=for-the-badge&logo=arduino&logoColor=white)
@@ -87,7 +87,7 @@
 
 ---
 
-## ⚙️ DevOps & Cloud
+## ⚙️ devops && cloud
 
 ![Docker](https://img.shields.io/badge/Docker-0db7ed.svg?style=for-the-badge&logo=docker)
 ![Nginx](https://img.shields.io/badge/Nginx-009639.svg?style=for-the-badge&logo=nginx)
@@ -99,27 +99,27 @@
 
 ---
 
-## 🔐 Networking & Cyber Security
+## 🔐 networking && cyber security
 
 ![Cisco](https://img.shields.io/badge/Cisco-049fd9.svg?style=for-the-badge&logo=cisco)
 
 ---
 
-## 🎮 Game Development
+## 🎮 gamedev
 
 ![Unity](https://img.shields.io/badge/Unity-black.svg?style=for-the-badge&logo=unity)
 ![Aseprite](https://img.shields.io/badge/Aseprite-white.svg?style=for-the-badge&logo=aseprite)
 
 ---
 
-## 🎨 Design & Tools
+## 🎨 graphic design
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=figma)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC.svg?style=for-the-badge&logo=canva)
 
 ---
 
-## 💬 Real-time Communication
+## 💬 real time communication
 
 ![Socket.io](https://img.shields.io/badge/Socket.io-black.svg?style=for-the-badge&logo=socket.io)
 ![JavaFX](https://img.shields.io/badge/JavaFX-FF0000.svg?style=for-the-badge&logo=java)
