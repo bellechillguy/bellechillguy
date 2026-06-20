@@ -39,8 +39,6 @@
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 
 ---
 
@@ -56,7 +54,6 @@
 ![Express](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express)
 ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django)
 ![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens)
 
 ---
 
@@ -117,23 +114,13 @@
 ## 🎮 gamedev
 
 ![Unity](https://img.shields.io/badge/Unity-black.svg?style=for-the-badge&logo=unity)
-![Aseprite](https://img.shields.io/badge/Aseprite-white.svg?style=for-the-badge&logo=aseprite)
 
 ---
 
 ## 🎨 graphic design
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=figma)
-![Canva](https://img.shields.io/badge/Canva-00C4CC.svg?style=for-the-badge&logo=canva)
 <img src="https://www.pngitem.com/pimgs/m/593-5932443_procreate-logo-hd-png-download.png" alt="Procreare" width="96">
-
-
----
-
-## 💬 real time communication
-
-![Socket.io](https://img.shields.io/badge/Socket.io-black.svg?style=for-the-badge&logo=socket.io)
-![JavaFX](https://img.shields.io/badge/JavaFX-FF0000.svg?style=for-the-badge&logo=java)
 
 ---
 
